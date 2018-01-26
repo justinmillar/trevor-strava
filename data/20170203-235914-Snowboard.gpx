@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="StravaGPX iPhone" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+ <metadata>
+  <time>2017-02-03T23:59:14Z</time>
+ </metadata>
+ <trk>
+  <name>Shreddin</name>
+  <trkseg>
+   <trkpt lat="46.5049790" lon="-87.4188490">
+    <ele>339.8</ele>
+    <time>2017-02-03T23:59:14Z</time>
+   </trkpt>
+   <trkpt lat="46.5050260" lon="-87.4188410">
+    <ele>338.6</ele>
+    <time>2017-02-03T23:59:18Z</time>
+   </trkpt>
+   <trkpt lat="46.5050620" lon="-87.4188420">
+    <ele>338.2</ele>
+    <time>2017-02-03T23:59:19Z</time>
+   </trkpt>
+   <trkpt lat="46.5051170" lon="-87.4188420">
+    <ele>337.1</ele>
+    <time>2017-02-03T23:59:20Z</time>
+   </trkpt>
+   <trkpt lat="46.5051840" lon="-87.4188380">
+    <ele>336.7</ele>
+    <time>2017-02-03T23:59:21Z</time>
+   </trkpt>
+   <trkpt lat="46.5052620" lon="-87.4188380">
+    <ele>334.2</ele>
+    <time>2017-02-03T23:59:22Z</time>
+   </trkpt>
+   <trkpt lat="46.5053570" lon="-87.4188390">
+    <ele>328.8</ele>
+    <time>2017-02-03T23:59:23Z</time>
+   </trkpt>
+   <trkpt lat="46.5055110" lon="-87.4188560">
+    <ele>320.5</ele>
+    <time>2017-02-03T23:59:24Z</time>
+   </trkpt>
+   <trkpt lat="46.5056330" lon="-87.4188840">
+    <ele>312.6</ele>
+    <time>2017-02-03T23:59:25Z</time>
+   </trkpt>
+   <trkpt lat="46.5059650" lon="-87.4189390">
+    <ele>297.5</ele>
+    <time>2017-02-03T23:59:28Z</time>
+   </trkpt>
+   <trkpt lat="46.5060940" lon="-87.4189510">
+    <ele>293.5</ele>
+    <time>2017-02-03T23:59:29Z</time>
+   </trkpt>
+   <trkpt lat="46.5062270" lon="-87.4189830">
+    <ele>287.6</ele>
+    <time>2017-02-03T23:59:30Z</time>
+   </trkpt>
+   <trkpt lat="46.5063730" lon="-87.4190090">
+    <ele>282.7</ele>
+    <time>2017-02-03T23:59:31Z</time>
+   </trkpt>
+   <trkpt lat="46.5065250" lon="-87.4190450">
+    <ele>277.6</ele>
+    <time>2017-02-03T23:59:32Z</time>
+   </trkpt>
+   <trkpt lat="46.5066820" lon="-87.4190770">
+    <ele>272.3</ele>
+    <time>2017-02-03T23:59:33Z</time>
+   </trkpt>
+   <trkpt lat="46.5068440" lon="-87.4190920">
+    <ele>266.0</ele>
+    <time>2017-02-03T23:59:34Z</time>
+   </trkpt>
+   <trkpt lat="46.5070000" lon="-87.4191470">
+    <ele>261.6</ele>
+    <time>2017-02-03T23:59:35Z</time>
+   </trkpt>
+   <trkpt lat="46.5071410" lon="-87.4192120">
+    <ele>259.0</ele>
+    <time>2017-02-03T23:59:36Z</time>
+   </trkpt>
+   <trkpt lat="46.5072820" lon="-87.4192790">
+    <ele>256.4</ele>
+    <time>2017-02-03T23:59:37Z</time>
+   </trkpt>
+   <trkpt lat="46.5074190" lon="-87.4193010">
+    <ele>250.7</ele>
+    <time>2017-02-03T23:59:38Z</time>
+   </trkpt>
+   <trkpt lat="46.5075590" lon="-87.4193350">
+    <ele>244.7</ele>
+    <time>2017-02-03T23:59:39Z</time>
+   </trkpt>
+   <trkpt lat="46.5077120" lon="-87.4193810">
+    <ele>243.1</ele>
+    <time>2017-02-03T23:59:40Z</time>
+   </trkpt>
+   <trkpt lat="46.5078670" lon="-87.4194370">
+    <ele>242.3</ele>
+    <time>2017-02-03T23:59:41Z</time>
+   </trkpt>
+   <trkpt lat="46.5080150" lon="-87.4194940">
+    <ele>241.6</ele>
+    <time>2017-02-03T23:59:42Z</time>
+   </trkpt>
+   <trkpt lat="46.5081290" lon="-87.4195750">
+    <ele>241.2</ele>
+    <time>2017-02-03T23:59:43Z</time>
+   </trkpt>
+   <trkpt lat="46.5082040" lon="-87.4196660">
+    <ele>241.0</ele>
+    <time>2017-02-03T23:59:44Z</time>
+   </trkpt>
+   <trkpt lat="46.5082580" lon="-87.4197560">
+    <ele>241.1</ele>
+    <time>2017-02-03T23:59:45Z</time>
+   </trkpt>
+   <trkpt lat="46.5082890" lon="-87.4198430">
+    <ele>241.0</ele>
+    <time>2017-02-03T23:59:46Z</time>
+   </trkpt>
+   <trkpt lat="46.5083030" lon="-87.4199300">
+    <ele>241.2</ele>
+    <time>2017-02-03T23:59:47Z</time>
+   </trkpt>
+   <trkpt lat="46.5083110" lon="-87.4199970">
+    <ele>241.3</ele>
+    <time>2017-02-03T23:59:48Z</time>
+   </trkpt>
+   <trkpt lat="46.5083100" lon="-87.4200470">
+    <ele>241.3</ele>
+    <time>2017-02-03T23:59:49Z</time>
+   </trkpt>
+   <trkpt lat="46.5082880" lon="-87.4201050">
+    <ele>241.5</ele>
+    <time>2017-02-03T23:59:51Z</time>
+   </trkpt>
+   <trkpt lat="46.5082620" lon="-87.4201360">
+    <ele>241.5</ele>
+    <time>2017-02-03T23:59:53Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>

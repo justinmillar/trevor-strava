@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="StravaGPX iPhone" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+ <metadata>
+  <time>2016-01-08T22:24:57Z</time>
+ </metadata>
+ <trk>
+  <name>Shreddin the Gnar</name>
+  <trkseg>
+   <trkpt lat="44.5223160" lon="-85.9933010">
+    <ele>314.4</ele>
+    <time>2016-01-08T22:24:57Z</time>
+   </trkpt>
+   <trkpt lat="44.5222130" lon="-85.9930660">
+    <ele>313.1</ele>
+    <time>2016-01-08T22:25:05Z</time>
+   </trkpt>
+   <trkpt lat="44.5222010" lon="-85.9930420">
+    <ele>312.7</ele>
+    <time>2016-01-08T22:25:06Z</time>
+   </trkpt>
+   <trkpt lat="44.5221790" lon="-85.9929910">
+    <ele>311.9</ele>
+    <time>2016-01-08T22:25:07Z</time>
+   </trkpt>
+   <trkpt lat="44.5221580" lon="-85.9929380">
+    <ele>311.0</ele>
+    <time>2016-01-08T22:25:08Z</time>
+   </trkpt>
+   <trkpt lat="44.5221400" lon="-85.9928730">
+    <ele>310.2</ele>
+    <time>2016-01-08T22:25:09Z</time>
+   </trkpt>
+   <trkpt lat="44.5220930" lon="-85.9927690">
+    <ele>307.7</ele>
+    <time>2016-01-08T22:25:10Z</time>
+   </trkpt>
+   <trkpt lat="44.5220100" lon="-85.9927340">
+    <ele>302.5</ele>
+    <time>2016-01-08T22:25:11Z</time>
+   </trkpt>
+   <trkpt lat="44.5219580" lon="-85.9926580">
+    <ele>298.8</ele>
+    <time>2016-01-08T22:25:12Z</time>
+   </trkpt>
+   <trkpt lat="44.5219150" lon="-85.9925570">
+    <ele>295.8</ele>
+    <time>2016-01-08T22:25:13Z</time>
+   </trkpt>
+   <trkpt lat="44.5218460" lon="-85.9924940">
+    <ele>292.7</ele>
+    <time>2016-01-08T22:25:14Z</time>
+   </trkpt>
+   <trkpt lat="44.5217800" lon="-85.9924420">
+    <ele>289.7</ele>
+    <time>2016-01-08T22:25:15Z</time>
+   </trkpt>
+   <trkpt lat="44.5217030" lon="-85.9923800">
+    <ele>285.9</ele>
+    <time>2016-01-08T22:25:16Z</time>
+   </trkpt>
+   <trkpt lat="44.5216130" lon="-85.9923140">
+    <ele>281.6</ele>
+    <time>2016-01-08T22:25:17Z</time>
+   </trkpt>
+   <trkpt lat="44.5215060" lon="-85.9922590">
+    <ele>276.7</ele>
+    <time>2016-01-08T22:25:18Z</time>
+   </trkpt>
+   <trkpt lat="44.5213890" lon="-85.9922070">
+    <ele>271.5</ele>
+    <time>2016-01-08T22:25:19Z</time>
+   </trkpt>
+   <trkpt lat="44.5212960" lon="-85.9920680">
+    <ele>265.2</ele>
+    <time>2016-01-08T22:25:20Z</time>
+   </trkpt>
+   <trkpt lat="44.5211890" lon="-85.9919290">
+    <ele>257.2</ele>
+    <time>2016-01-08T22:25:21Z</time>
+   </trkpt>
+   <trkpt lat="44.5210560" lon="-85.9917910">
+    <ele>251.1</ele>
+    <time>2016-01-08T22:25:22Z</time>
+   </trkpt>
+   <trkpt lat="44.5209150" lon="-85.9916640">
+    <ele>248.2</ele>
+    <time>2016-01-08T22:25:23Z</time>
+   </trkpt>
+   <trkpt lat="44.5207580" lon="-85.9915620">
+    <ele>245.4</ele>
+    <time>2016-01-08T22:25:24Z</time>
+   </trkpt>
+   <trkpt lat="44.5206700" lon="-85.9913610">
+    <ele>243.0</ele>
+    <time>2016-01-08T22:25:25Z</time>
+   </trkpt>
+   <trkpt lat="44.5205700" lon="-85.9912200">
+    <ele>242.7</ele>
+    <time>2016-01-08T22:25:26Z</time>
+   </trkpt>
+   <trkpt lat="44.5205350" lon="-85.9910690">
+    <ele>242.7</ele>
+    <time>2016-01-08T22:25:27Z</time>
+   </trkpt>
+   <trkpt lat="44.5204940" lon="-85.9909990">
+    <ele>242.7</ele>
+    <time>2016-01-08T22:25:29Z</time>
+   </trkpt>
+   <trkpt lat="44.5205030" lon="-85.9909520">
+    <ele>242.7</ele>
+    <time>2016-01-08T22:25:31Z</time>
+   </trkpt>
+   <trkpt lat="44.5205240" lon="-85.9909070">
+    <ele>242.7</ele>
+    <time>2016-01-08T22:25:35Z</time>
+   </trkpt>
+   <trkpt lat="44.5205430" lon="-85.9908770">
+    <ele>242.7</ele>
+    <time>2016-01-08T22:25:37Z</time>
+   </trkpt>
+   <trkpt lat="44.5205730" lon="-85.9908560">
+    <ele>242.7</ele>
+    <time>2016-01-08T22:25:39Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
